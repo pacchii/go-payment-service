@@ -2,6 +2,8 @@
 
 ## 💳 Payment API
 
+---
+
 ### 🔹 Create Payment
 
 **POST** `http://localhost:9090/payment`
